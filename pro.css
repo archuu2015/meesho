@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(images/4.webp) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+
+
+}
+
+img {
+    height: 50px;
+    margin-top: 5px;
+    width: 60px;
+    margin-left: 496px;
+}
+
+.icon {
+    text-align: center;
+    font-size: 50px;
+    margin-top: -60px;
+    color: black;
+}
+
+.main {
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: url(images/fr.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.pro {
+    margin: 40px;
+
+}
+
+input#reset {
+
+    width: 90px;
+    padding: 3px;
+    font-size: 16px;
+    font-family: cursive;
+    border-radius: 5px;
+}
+
+input#submit {
+
+    width: 90px;
+    padding: 3px;
+    font-size: 16px;
+    font-family: cursive;
+    border-radius: 5px;
+}
+
+label {
+    color: blue;
+    font-style: oblique;
+}
+
+#black {
+    color: black;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    padding: 15px;
+    margin-top: -20px;
+
+}
+
+.footer {
+    background-color: seashell;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer .text {
+    text-transform: uppercase, lowercase;
+    color: black;
+    font-size: 20px;
+    margin-top: -34px;
+}
